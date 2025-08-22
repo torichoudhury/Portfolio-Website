@@ -15,7 +15,7 @@ const Projects: React.FC = () => {
     {
       title: 'Eureka – An AI-Powered Educator',
       description: 'Hackathon Winning Project Solving SDG 4',
-      longDescription: 'Built an interactive AI educator mobile app using Flutter and Firebase, enabling real-time query resolution and lesson recommendations.Won 1st Prize at Ureckon for innovation in AI-powered education.',
+      longDescription: 'Built an interactive AI educator mobile app using Flutter and Firebase, enabling real-time query resolution and lesson recommendations. Won 1st Prize at Ureckon for innovation in AI-powered education.',
       image: 'https://github.com/torichoudhury/Eureka_AI-Powered-Educator/blob/master/assets/logo.jpg?raw=true',
       technologies: ['Flutter', 'Firebase', 'Gemini API'],
       github: 'https://github.com/torichoudhury/Eureka_AI-Powered-Educator',

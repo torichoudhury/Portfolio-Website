@@ -33,7 +33,7 @@ const Experience: React.FC = () => {
       ]
     },
     {
-      title: 'Data Engineering Virtual Internship',
+      title: 'Data Engineering (Virtual Internship)',
       company: 'Amazon Web Services',
       location: 'Virtual',
       period: 'March 2023',

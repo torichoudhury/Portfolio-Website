@@ -25,18 +25,19 @@ const Skills: React.FC = () => {
         { name: 'Microsoft SQL Server', level: 88 },
         { name: 'Firebase', level: 62 },
         { name: 'JavaScript/Node.js', level: 42 },
-        { name: 'Dart', level: 63 }
+        { name: 'Java', level: 65 }
+        
       ]
     },
     {
-      title: 'Languages & AI/M',
+      title: 'Languages & AI/ML',
       skills: [
         { name: 'Python', level: 95 },
         { name: 'C/C++/C#', level: 82 },
-        { name: 'Java', level: 65 },
         { name: 'Qiskit', level: 32 },
         { name: 'TensorFlow/PyTorch', level: 80 },
         { name: 'scikit-learn', level: 70 },
+        { name: 'Dart', level: 63 }
       ]
     }
   ];
